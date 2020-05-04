@@ -5,3 +5,4 @@ A solution repository of Leetcode April Challenge 2020
 * 1) Single Number
 * 2) Happy Number  
 * 3) Maximum Subarray  
+* 4) Move Zeroes  
