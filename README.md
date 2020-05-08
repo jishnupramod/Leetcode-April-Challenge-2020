@@ -9,3 +9,4 @@ A solution repository of Leetcode April Challenge 2020
 * 5) Best Time to Buy and Sell Stock II  
 * 6) Group Anagrams  
 * 7) Counting Elements  
+* 8) Middle of the Linked List  
