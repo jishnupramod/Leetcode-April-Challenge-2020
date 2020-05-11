@@ -12,3 +12,4 @@ A solution repository of Leetcode April Challenge 2020
 * 8)  Middle of the Linked List  
 * 9)  Backspace String Compare  
 * 10) Min Stack  
+* 11) Diameter of Binary Tree  
