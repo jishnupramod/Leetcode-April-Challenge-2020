@@ -14,3 +14,4 @@ A solution repository of Leetcode April Challenge 2020
 * 10) Min Stack  
 * 11) Diameter of Binary Tree  
 * 12) Last Stone Weight  
+* 13) Contiguous Array  
