@@ -19,3 +19,4 @@ A solution repository of Leetcode April Challenge 2020
 * 15) Product of Array Except Self  
 * 16) Valid Parenthesis String  
 * 17) Number of Islands  
+* 18) Minimum Path Sum  
