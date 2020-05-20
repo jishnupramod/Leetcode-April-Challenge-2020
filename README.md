@@ -20,3 +20,5 @@ A solution repository of Leetcode April Challenge 2020
 * 16) Valid Parenthesis String  
 * 17) Number of Islands  
 * 18) Minimum Path Sum  
+* 19) Search in Rotated Sorted Array  
+* 20) Construct Binary Search Tree From Preorder Traversal   
