@@ -21,6 +21,9 @@ A solution repository of Leetcode April Challenge 2020
 * 17) Number of Islands  
 * 18) Minimum Path Sum  
 * 19) Search in Rotated Sorted Array  
-* 20) Construct Binary Search Tree From Preorder Traversal   
-* 21) Subarray Sum Equals K  
-* 22) Bitwise AND of Numbers Range     
+* 20) Construct Binary Search Tree From Preorder Traversal  
+* 21)  
+* 22) Subarray Sum Equals K  
+* 23) Bitwise AND of Numbers Range    
+* 24) LRU Cache  
+* 25) Jump Game   
