@@ -26,4 +26,7 @@ A solution repository of Leetcode April Challenge 2020
 * 22) Subarray Sum Equals K  
 * 23) Bitwise AND of Numbers Range    
 * 24) LRU Cache  
-* 25) Jump Game   
+* 25) Jump Game  
+* 26) Longest Common Subsequence  
+* 27) Maximal Subsquare  
+* 29) Binary Tree Maximum Path Sum   
