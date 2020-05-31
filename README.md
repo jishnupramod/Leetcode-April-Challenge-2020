@@ -15,18 +15,22 @@ A solution repository of Leetcode April Challenge 2020
 * 11) Diameter of Binary Tree  
 * 12) Last Stone Weight  
 * 13) Contiguous Array  
-* 14) Perform String Shifts  
+* 14) < Perform String Shifts >  
 * 15) Product of Array Except Self  
 * 16) Valid Parenthesis String  
 * 17) Number of Islands  
 * 18) Minimum Path Sum  
 * 19) Search in Rotated Sorted Array  
 * 20) Construct Binary Search Tree From Preorder Traversal  
-* 21)  
+* 21) < Leftmost column with atleast a one >
 * 22) Subarray Sum Equals K  
 * 23) Bitwise AND of Numbers Range    
-* 24) LRU Cache  
+* 24) < LRU Cache >   
 * 25) Jump Game  
 * 26) Longest Common Subsequence  
 * 27) Maximal Subsquare  
-* 29) Binary Tree Maximum Path Sum   
+* 28) < First Unique Number >
+* 29) Binary Tree Maximum Path Sum  
+* 30) < check if a string is a valid sequence from root to leaves path in a binary tree > 
+
+##### Within '< >' ==> Not yet completed
